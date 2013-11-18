@@ -1,0 +1,24 @@
+PODS:
+  - Google-Mobile-Ads-SDK (6.6.1)
+  - HexColors (2.2.1)
+  - JSONKit (1.5pre)
+  - PKRevealController (2.0.6)
+  - SDWebImage (3.5):
+    - SDWebImage/Core
+  - SDWebImage/Core (3.5)
+
+DEPENDENCIES:
+  - Google-Mobile-Ads-SDK
+  - HexColors
+  - JSONKit (~> 1.4)
+  - PKRevealController
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  Google-Mobile-Ads-SDK: edd71358f4ac3c7a09e5614728e19957dd91c017
+  HexColors: 3a68db077cd6572a8f7d4aa1add284dd2436a934
+  JSONKit: 409734ab3407fce90ef7eaa95d7168f38d9a6601
+  PKRevealController: 883287432cecf4cda037184eb822548b9713f8c2
+  SDWebImage: f1a72472f8a2d54445f1fedafe2090593d9caf7f
+
+COCOAPODS: 0.27.1
